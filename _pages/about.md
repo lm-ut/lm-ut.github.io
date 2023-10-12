@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.kuleuven.be/wieiswie/en/person/00155799'>PostDoc Researcher @ KU Leuven, Belgium</a> 
+subtitle: PostDoc Researcher @ <a href='https://www.kuleuven.be/wieiswie/en/person/00155799'> KU Leuven </a>, Belgium 
 
 
 profile:
