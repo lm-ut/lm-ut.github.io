@@ -11,12 +11,12 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: 9788860086730.jpg
-    content: about_einstein.md
+    content: manuale.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Manuale di Antropologia, Evoluzione e Biodiversita Umana</p>
+      <p> <a href='https://www.amazon.it/Manuale-antropologia-Evoluzione-biodiversit%C3%A0-umana/dp/8860086736'>Manuale di Antropologia, Evoluzione e Biodiversita Umana</a></p>
       <p>UTET Universita [ITA]</p>
-      <p>Capt. 5</p>
+      <p></p>
   - align: right
     image: Scatolino39.jpg
     content: about_einstein.md
