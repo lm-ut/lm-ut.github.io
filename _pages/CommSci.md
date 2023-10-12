@@ -9,6 +9,14 @@ nav_order: 6
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: left
+    image: 9788860086730.jpg
+    content: about_einstein.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>Manuale di Antropologia, Evoluzione e Biodiversita Umana</p>
+      <p>UTET Universita [ITA]</p>
+      <p>Capt. 5</p>
   - align: right
     image: Scatolino39.jpg
     content: about_einstein.md
@@ -40,7 +48,7 @@ profiles:
     more_info: >
       <p><a href='https://blog.ut.ee/the-thousands-of-lives-you-lived/'>The thousands of lives you lived</a></p>
       <p>University of Tartu Blog</p>
-      <p>"Official blog of the University of Tartu, where we publish stories that are connected to our university, whether it be in the realm of research, student life, studies, events, or careers."</p>
+      <p>"Official blog of the University of Tartu."</p>
   - align: right
     image: prof_pic.jpg
     content: about_einstein.md
