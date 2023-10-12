@@ -2,7 +2,7 @@
 layout: page
 title: WINC
 description: A chromosome-painting-based pipeline to infer local ancestry under limited source availability
-img: assets/img/3.jpg
+img: assets/img/SummaryWINC.jpg
 importance: 2
 category: work
 giscus_comments: true
