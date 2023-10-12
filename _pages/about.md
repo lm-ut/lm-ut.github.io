@@ -10,9 +10,9 @@ profile:
   image: myprofile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Researcher</p>
+    <p>She/Her</p>
     <p>Flanders, Belgium</p>
-    <p></p>
-    <p></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
