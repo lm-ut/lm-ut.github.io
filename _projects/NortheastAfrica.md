@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bronze Age Echos in Northeast Africa
+title: Bronze Age Echoes in Northeast Africa
 description: Global and Local Ancestry Deconvolution applied to human whole genome sequences from Northeast Africa
 img: assets/img/12.jpg
 importance: 1
