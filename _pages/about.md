@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='[#](https://www.kuleuven.be/wieiswie/en/person/00155799)'>KU Leuven/a> - PostDoc Researcher in the Laboratory for Human Evolutionary Genetics
+subtitle: <a href='https://www.kuleuven.be/wieiswie/en/person/00155799'>KU Leuven/a> - PostDoc Researcher in the Laboratory for Human Evolutionary Genetics
 
 profile:
   align: right
