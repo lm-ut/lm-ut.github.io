@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: Scatolino39.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -18,7 +18,7 @@ profiles:
       <p><a href='https://www.scatolificioudinese.it/lo-scatolino/lo-scatolino-39/?p=0'>Scatolino n. 39 [ITA]</a></p>
       <p>"Rivista trimestrale. Poliedrica. Interattiva. Viandante."</p>
   - align: left
-    image: prof_pic.jpg
+    image: Scatolino38.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -26,7 +26,7 @@ profiles:
       <p><a href='https://www.scatolificioudinese.it/lo-scatolino/lo-scatolino-38/?p=0'>Scatolino n. 38 [ITA]</a></p>
       <p>"Rivista trimestrale. Poliedrica. Interattiva. Viandante."</p>
   - align: right
-    image: prof_pic.jpg
+    image: Scatolino37.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
