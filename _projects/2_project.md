@@ -1,25 +1,21 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: WINC
+description: A chromosome-painting-based pipeline to infer local ancestry under limited source availability
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Contemporary individuals are the combination of genetic fragments inherited from ancestors belonging to multiple populations, as
+the result of migration and admixture. Isolating and characterizing these layers are crucial to the understanding of the genetic history
+of a given population. Ancestry deconvolution approaches make use of a large amount of source individuals, therefore constraining
+the performance of Local Ancestry Inferences when only few genomes are available from a given population. Here we present WINC,
+a local ancestry framework derived from the combination of ChromoPainter and NNLS approaches, as a method to retrieve local
+genetic assignments when only a few reference individuals are available. The framework is aided by a score assignment based on
+source differentiation to maximize the amount of sequences retrieved and is capable of retrieving accurate ancestry assignments
+when only two individuals for source populations are used.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
