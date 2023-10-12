@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /CommSci/
-title: PopularizingScience
-description: Articles and other activities done to communicate scientific concepts to a broad audience
+title: CommSci
+description: Articles and other activities done to communicate and popularizing scientific concepts to a broad audience
 nav: true
 nav_order: 6
 
