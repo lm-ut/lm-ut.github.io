@@ -1,25 +1,30 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Bronze Age Echos in Northeast Africa
+description: Global and Local Ancestry Deconvolution applied to human whole genome sequences from Northeast Africa
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: Molinaro2022, molinaro2019west, molinaro2018human, Evolutionary Biology Course 2018
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+African populations from Ethiopia admixed with individuals arriving from Eurasia
+3000 years ago, and from that moment, the Horn of Africa carried a signature of
+this encounter. There have been several attempts to pin-point the Eurasian source
+in Ethiopia, some of them used modern genomes, while others used ancient
+samples: the Non African layer was deemed to be from Sardinia by Pickrell in 2014
+and from the Levant by Lazaridis in 2016. However, past studies analyzed the whole
+genome globally, both African and Eurasian layers altogether. In this thesis, using
+several populations, both modern and ancient as references, and the Ethiopian and
+Egyptian populations published by Pagani 2015, it was possible to study more in
+depth the backflow into Africa through a method called Ancestry Deconvolution.
+With this approach the Ethiopian genomes were divided in their two layers, and the
+two ancestral components that characterize the Horn of Africa could be analyzed
+specifically: the African and the Non African components. This novel approach shed
+light on new aspects of this area demographic history while confirming others:
+notably, the Africa component is confirmed being prevalently East African, while
+the Non African component shows strong similarities with Anatolia Neolithic and
+Minoan samples.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
