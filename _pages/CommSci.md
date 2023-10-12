@@ -35,7 +35,7 @@ profiles:
       <p>"Rivista trimestrale. Poliedrica. Interattiva. Viandante."</p>
   - align: right
     image: Scatolino37.jpg
-    content: about_einstein.md
+    content: Scatolino37.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>10000 anni di storia in una doppia elica</p>
