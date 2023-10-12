@@ -19,7 +19,7 @@ profiles:
       <p></p>
   - align: right
     image: Scatolino39.jpg
-    content: about_einstein.md
+    content: Scatolino39.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Carlomagno, mio cugino</p>
@@ -27,7 +27,7 @@ profiles:
       <p>"Rivista trimestrale. Poliedrica. Interattiva. Viandante."</p>
   - align: left
     image: Scatolino38.jpg
-    content: about_einstein.md
+    content: Scatolino38.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>Oltre ai geni</p>
