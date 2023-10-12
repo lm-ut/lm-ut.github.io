@@ -51,7 +51,7 @@ profiles:
       <p>"Official blog of the University of Tartu."</p>
   - align: right
     image: MobilitasConf.jpg
-    content: about_einstein.md
+    content: Tardis.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>How to time travel with DNA</p>
