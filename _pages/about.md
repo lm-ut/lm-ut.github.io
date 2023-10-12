@@ -2,8 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: [KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00155799) - PostDoc Researcher @ Laboratory for Human Evolutionary Genetics, Leuven, Belgium  
-Previously at [Institue of Genomics](https://genomics.ut.ee/en) - Doctoral Researcher @ Estonian Biocentre, Tartu, Estonia
+subtitle: <a href='https://www.kuleuven.be/wieiswie/en/person/00155799'>KU Leuven </a> - PostDoc Researcher @ Laboratory for Human Evolutionary Genetics, Leuven, Belgium  
+Previously at <a href= 'https://genomics.ut.ee/en'>Institute of Genomics</a> - Doctoral Researcher @ Estonian Biocentre, Tartu, Estonia
 
 
 profile:
