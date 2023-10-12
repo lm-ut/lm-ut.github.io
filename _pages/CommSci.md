@@ -35,7 +35,7 @@ profiles:
       <p>"Rivista trimestrale. Poliedrica. Interattiva. Viandante."</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: 1000Lives.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p><a href='https://blog.ut.ee/the-thousands-of-lives-you-lived/'>The thousands of lives you lived</a></p>
