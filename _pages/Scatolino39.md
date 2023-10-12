@@ -1,0 +1,6 @@
+If you believe that you have the most eccentric relatives in your family tree, starting tomorrow, you can easily (or more precisely, scientifically) include Charlemagne as well!
+
+Consider your family tree: it starts with you at generation zero
+(0). In the previous generation (generation 1), you have your two parents. The generation before that, your four grandparents make up generation 2. Every generation we find 2^K relatives,where k is the generation number that we are considering. Let's begin with us as the only protagonists (2^0=1), then there are our two parents (2^1 =2), and then the grandparents (2^2 =4). How many direct ancestors did we have 20 generations ago? 1,048,576. And 30 generations ago? Over a billion direct ancestors. And at Charlemagne time? To go back to the 19th century we need about 40 generations, and 2^40 ago ... 1,099,511,627,776 (I dare you to read it!).
+
+Leaving aside the logistical challenge of organizing lunch for Christmas, there's a significant issue with this vast number of relative. In the 19th century, the world's population was far from reaching one billion inhabitants. So, it raises a question: How is it possible that each of us had billions of relatives 1200 years ago when, in the year 1000 AD, there were only a few million inhabitants?
