@@ -1,0 +1,2 @@
+The webinar was organized by Prof. Pagani, to show the Estonian public all the scientific results his entire team reached by the end of the [Mobilitas Pluss Grant](https://etag.ee/en/funding/programmes/mobilitas-pluss/) he was awarded. 
+I gave an introductory lecture on genetics focusing on non-conding DNA and Local Ancestry Deconvolution (both core concepts in my Doctoral research) and show the applications of the concepts explained in the research we carried on in the Modern DNA group at Institute of Genomics.
