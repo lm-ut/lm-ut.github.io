@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=[KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00155799)> - PostDoc Researcher in the Laboratory for Human Evolutionary Genetics
+subtitle: <a href=[KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00155799)> - PostDoc Researcher @ Laboratory for Human Evolutionary Genetics, Leuven, Belgium
+subtitle: Previously at <a href=[Institue of Genomics](https://genomics.ut.ee/en)> - Doctoral Researcher @ Estonian Biocentre, Tartu, Estonia
+
 
 profile:
   align: right
