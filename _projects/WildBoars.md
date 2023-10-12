@@ -1,7 +1,7 @@
 ---
 layout: page
-title: WildBoars
-description: A challenge: hybridization of the Sardinian wild boar (Sus scrofa meridionalis)
+title: Wild Boars
+description: A challenge, hybridization of the Sardinian wild boar (Sus scrofa meridionalis)
 img: assets/img/7.jpg
 importance: 3
 category: work
