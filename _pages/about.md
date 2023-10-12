@@ -20,6 +20,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, World! 
+Previously Doctoral Researcher @ <a href= 'https://genomics.ut.ee/en'>Institute of Genomics</a>, Tartu, Estonia
 
-Previously at <a href= 'https://genomics.ut.ee/en'>Institute of Genomics</a> - Doctoral Researcher @ Estonian Biocentre, Tartu, Estonia
