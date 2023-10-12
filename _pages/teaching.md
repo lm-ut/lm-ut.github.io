@@ -5,7 +5,7 @@ permalink: /teaching/
 description: Courses + Tutorials
 nav: true
 nav_order: 2
-display_categories: [Tutorials, Cources]
+display_categories: [Tutorials, Courses]
 horizontal: false
 ---
 
