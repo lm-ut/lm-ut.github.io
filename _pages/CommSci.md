@@ -50,7 +50,7 @@ profiles:
       <p>University of Tartu Blog</p>
       <p>"Official blog of the University of Tartu."</p>
   - align: right
-    image: prof_pic.jpg
+    image: MobilitasConf.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
