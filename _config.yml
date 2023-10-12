@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: snail_icon.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://lm-ut.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -104,7 +104,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Reach me at name dot lastname at kuleuven dot be
+  Reach me at firstname dot lastname at kuleuven dot be
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -121,7 +121,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Update # blog_name will be displayed in your blog page
-blog_nav_title: News # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: news # your blog must have a title for it to be displayed in the nav bar
 blog_description: What I am up to 
 permalink: /blog/:year/:title/
 
