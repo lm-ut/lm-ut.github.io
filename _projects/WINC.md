@@ -5,7 +5,6 @@ description: A chromosome-painting-based pipeline to infer local ancestry under 
 img: assets/img/SummaryWINC.jpg
 importance: 2
 category: work
-giscus_comments: true
 related_publications: Molinaro2021chromosome
 ---
 
