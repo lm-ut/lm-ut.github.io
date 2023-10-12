@@ -9,7 +9,7 @@ giscus_comments: true
 related_publications: Molinaro2021chromosome
 ---
 
-Supervised by Dr. Montinaro (University of Bari + University of Tartu) & Prof. Pagani (University of Padue + University of Tartu)
+Supervised by Dr. Montinaro (University of Bari + University of Tartu) & Prof. Pagani (University of Padua + University of Tartu)
 
 Contemporary individuals are the combination of genetic fragments inherited from ancestors belonging to multiple populations, as
 the result of migration and admixture. Isolating and characterizing these layers are crucial to the understanding of the genetic history
