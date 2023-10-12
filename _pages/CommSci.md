@@ -42,7 +42,7 @@ profiles:
       <p><a href='https://www.scatolificioudinese.it/lo-scatolino/lo-scatolino-37/?p=0'>Scatolino n. 37 [ITA]</a></p>
       <p>"Rivista trimestrale. Poliedrica. Interattiva. Viandante."</p>
   - align: left
-    image: prof_pic.jpg
+    image: 1000Lives.jpg
     content: 1000Lives.md
     image_circular: false # crops the image to make it circular
     more_info: >
