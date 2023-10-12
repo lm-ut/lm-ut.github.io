@@ -8,7 +8,7 @@ category: work
 related_publications: Molinaro2022, molinaro2019west, molinaro2018human, Evolutionary Biology Course 2018
 ---
 
-Supervised by Prof. Pagani, University of Padua + University of Tartu 
+Supervised by Prof. Pagani (University of Padua + University of Tartu)
 
 African populations from Ethiopia admixed with individuals arriving from Eurasia
 3000 years ago, and from that moment, the Horn of Africa carried a signature of
