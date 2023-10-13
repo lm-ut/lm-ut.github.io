@@ -31,21 +31,18 @@
       "endDate": "NOW",
       "summary": "PostDoc Researcher",
       "highlights": [
-        "Conceptualizing and managing projects through computational analyses
-and insightful interpretations of complex data. Guiding and mentoring
-students:
-• Developed a methodology available through an R package to detect ge-
-netic ancestry, outperforming in computational time, scalability and ac-
-curacy many other common used tools.
-• Developed workflows and processes to automate bioinformatics analy-
-ses for the whole team
-• Collaborated with colleagues with a non-computational background, in
-order to develop experimental designs as well as bioinformatics pipelines
-to accelerate their analyses
-• Coordinated the work between team members of other international in-
-stitutions remotely
-• Contributed to an anthropology manual book and wrote articles for non-
-scientific audience to popularize science"
+        "Conceptualizing and managing projects through computational analyses and insightful interpretations of complex data. Guiding and mentoring students"
+      ]
+    }
+       {
+      "name": "KU Leuven",
+      "position": "Researcher",
+      "url": "https://www.kuleuven.be/wieiswie/en/person/00155799",
+      "startDate": "2022",
+      "endDate": "NOW",
+      "summary": "PostDoc Researcher",
+      "highlights": [
+        "Conceptualizing and managing projects through computational analyses and insightful interpretations of complex data. Guiding and mentoring students"
       ]
     }
   ],
