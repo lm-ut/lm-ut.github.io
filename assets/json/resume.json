@@ -36,6 +36,21 @@
         "Developed a methodology available through an R package to detect genetic ancestry, outperforming in computational time, scalability and accuracy many other common used tools",
         "Collaborated with colleagues with a non-computational background, in order to develop experimental designs as well as bioinformatics pipelines to accelerate their analyses",
         "Contributed to an anthropology manual book and wrote articles for non-scientific audience to popularize science" ]
+    },
+     {
+      "name": "Estonian Biocentre - Institute of Genomics",
+      "position": "Doctoral Researcher",
+      "url": "",
+      "startDate": "2018",
+      "endDate": "2022",
+      "summary": "Junior Researcher",
+      "highlights": [
+        "Designed and managed multiple projects, conducting informatics analyses and interpretation of the results. Translated findings into impactful reports, scientific papers, and compelling presentations.", 
+        "Won multiple academic awards for best presentation and a prestigious award for exceptionally promising students",
+        "Developed a novel tool for genetic analyses R & Python-based for detecting genetic ancestry and discovering complex demographic events through ancient and modern DNA",
+        "Worked cooperatively with an international team, as well as networking with scientists from other international institutes, producing 10 scientific papers in four years",
+        "Presented my research very efficiently to different constituencies of all levels, such passion and predisposition lead me to teach several university courses, particularly ’Communication of Science’ course were I trained students to deliver an effective, expressive and original speech"
+      ]
     }
   ]
 }
