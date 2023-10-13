@@ -31,8 +31,9 @@
       "endDate": "NOW",
       "summary": "PostDoc Researcher",
       "highlights": [
-        "Conceptualizing and managing projects through computational analyses and insightful interpretations of complex data. Guiding and mentoring students",
-        "Developed a methodology available through an R package to detect genetic ancestry, outperforming in computational time, scalability and accuracy many other common used tools.",
+        "Conceptualizing and managing projects through computational analyses and insightful interpretations of complex data",
+        "Guiding and mentoring students, with a personalized and empathetic teaching style tailored to their individual needs and personalities, fostering an inclusive and supportive learning atmosphere",
+        "Developed a methodology available through an R package to detect genetic ancestry, outperforming in computational time, scalability and accuracy many other common used tools",
         "Collaborated with colleagues with a non-computational background, in order to develop experimental designs as well as bioinformatics pipelines to accelerate their analyses",
         "Contributed to an anthropology manual book and wrote articles for non-scientific audience to popularize science"
       ]
@@ -67,7 +68,31 @@
       "courses": [
         "Human Evolutionary Genetics"
       ]
-    }
+    },
+        {
+      "institution": "University of Padua, Italy",
+      "url": "",
+      "area": "Biology",
+      "studyType": "Msc",
+      "startDate": "2016",
+      "endDate": "2018",
+      "score": "110/110 cum laude",
+      "courses": [
+        "Human Evolutionary Genetics"
+      ]
+    },
+        {
+      "institution": "University of Ferrara, Italy",
+      "url": "",
+      "area": "Biology",
+      "studyType": "Bsc",
+      "startDate": "2013",
+      "endDate": "2016",
+      "score": "110/110",
+      "courses": [
+        "Human Evolutionary Genetics"
+      ]
+    },
   ],
   "awards": [
     {
@@ -75,7 +100,25 @@
       "date": "2018",
       "awarder": "Ermenegildo Zegna Group",
       "summary": ""
-    }
+    },
+    {
+      "title": "Dora+ Scholarship for visiting doctoral students",
+      "date": "2022",
+      "awarder": "University of Tartu",
+      "summary": ""
+    },
+        {
+      "title": "Best Talk",
+      "date": "2019",
+      "awarder": "Italian Association of Anthropologists, Padua, Italy",
+      "summary": ""
+    },
+    {
+      "title": "Best Talk",
+      "date": "2019",
+      "awarder": "Institute of Genomics & Institute of Molecular and Cell Biology, Tartu, Estonia",
+      "summary": ""
+    },
   ],
   "certificates": [],
   "publications": [],
