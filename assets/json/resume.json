@@ -87,12 +87,6 @@
   ],
   "awards": [
     {
-      "title": "Ermenegildo Zegna Scholarship for exceptionally promising students",
-      "date": "2018",
-      "awarder": "Ermenegildo Zegna Group",
-      "summary": ""
-    },
-    {
       "title": "Dora+ Scholarship for visiting doctoral students",
       "date": "2022",
       "awarder": "University of Tartu",
@@ -108,6 +102,12 @@
       "title": "Best Talk - IG&IMCB",
       "date": "2019",
       "awarder": "Institute of Genomics & Institute of Molecular and Cell Biology, Tartu, Estonia",
+      "summary": ""
+    },
+        {
+      "title": "Ermenegildo Zegna Scholarship for exceptionally promising students",
+      "date": "2018",
+      "awarder": "Ermenegildo Zegna Group",
       "summary": ""
     }
   ]
