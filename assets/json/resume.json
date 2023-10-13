@@ -53,11 +53,6 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Coding"
-    }
-  ],
    "education": [
     {
       "institution": "University of Tartu, Estonia",
@@ -151,5 +146,5 @@
   "projects": [ {
     "name": "see <a href='https://lm-ut.github.io/projects/'>projects</a>"
   }
-  ],  
+  ]
 }
