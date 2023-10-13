@@ -13,6 +13,13 @@
       "city": "Leuven",
       "countryCode": "BE",
       "region": "Flanders"
-    }
-  },
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
+  }
 }
