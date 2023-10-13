@@ -54,7 +54,9 @@
     }
   ],
   "skills": [
-    
+    {
+      "name": "Coding"
+    }
   ],
    "education": [
     {
@@ -135,12 +137,18 @@
       "title": "International House Leuven",
       "date": "2023",
       "summary": "Volunteer for the Expatival festival - "
-    },
+    }
   ],
-  "Popularizing Science": [ see <a href='https://lm-ut.github.io/CommSci/'>Communication of Science</a>
+  "Popularizing Science": [ {
+    "name": "see <a href='https://lm-ut.github.io/CommSci/'>Communication of Science</a>"
+  }
   ],
-  "publications": [ see <a href='https://lm-ut.github.io/publications/'>publications</a>
+  "publications": [ {
+    "name": "see <a href='https://lm-ut.github.io/publications/'>publications</a>"
+  }
   ],
-  "projects": [ see <a href='https://lm-ut.github.io/projects/'>projects</a>
+  "projects": [ {
+    "name": "see <a href='https://lm-ut.github.io/projects/'>projects</a>"
+  }
   ],  
 }
