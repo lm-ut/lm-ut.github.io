@@ -6,7 +6,19 @@
     "email": "firstname.lastname@abc.be",
     "phone": "+00 000 0000 000",
     "url": "https://lm-ut.github.io",
-    "summary": "shortbio",
+    "summary": "Experienced researcher well-versed in the intricacies of biological and ge-
+netic exploration, coupled with a genuine passion not only for the world of
+data mining and coding, but also to the art of scientific writing and expla-
+nation of complex concepts to a wider audience. My work has been promi-
+nently featured in various scientific publications, and I have actively con-
+ducted research across diverse European settings, cultivating both project
+management expertise and a collaborative spirit that transcends borders.
+As a self-motivated problem-solver with a proactive disposition, I am keen
+to apply my skills in a dynamic, vibrant private company setting, where I
+can tackle new challenges and continue my professional evolution. I am
+committed to making a tangible impact in the world and I am looking for-
+ward to apply my knowledge, curiosity and enthusiasm in a fresh and stim-
+ulating environment.",
     "location": {
       "address": "Leuven",
       "postalCode": "3000",
@@ -29,9 +41,23 @@
       "url": "https://www.kuleuven.be/wieiswie/en/person/00155799",
       "startDate": "2022",
       "endDate": "NOW",
-      "summary": "Researcher",
+      "summary": "PostDoc Researcher",
       "highlights": [
-        "Human Evolutionary Genetics"
+        "Conceptualizing and managing projects through computational analyses
+and insightful interpretations of complex data. Guiding and mentoring
+students:
+• Developed a methodology available through an R package to detect ge-
+netic ancestry, outperforming in computational time, scalability and ac-
+curacy many other common used tools.
+• Developed workflows and processes to automate bioinformatics analy-
+ses for the whole team
+• Collaborated with colleagues with a non-computational background, in
+order to develop experimental designs as well as bioinformatics pipelines
+to accelerate their analyses
+• Coordinated the work between team members of other international in-
+stitutions remotely
+• Contributed to an anthropology manual book and wrote articles for non-
+scientific audience to popularize science"
       ]
     }
   ],
