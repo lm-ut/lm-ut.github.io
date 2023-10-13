@@ -31,7 +31,10 @@
       "endDate": "NOW",
       "summary": "PostDoc Researcher",
       "highlights": [
-        "Conceptualizing and managing projects through computational analyses and insightful interpretations of complex data. Guiding and mentoring students"
+        "Conceptualizing and managing projects through computational analyses and insightful interpretations of complex data. Guiding and mentoring students",
+        "Developed a methodology available through an R package to detect genetic ancestry, outperforming in computational time, scalability and accuracy many other common used tools.",
+        "Collaborated with colleagues with a non-computational background, in order to develop experimental designs as well as bioinformatics pipelines to accelerate their analyses",
+        "Contributed to an anthropology manual book and wrote articles for non-scientific audience to popularize science"
       ]
     }
 
