@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wild Boars
-description: A challenge, hybridization of the Sardinian wild boar (Sus scrofa meridionalis)
+description: Hybridization of the Sardinian wild boar (Sus scrofa meridionalis)
 img: assets/img/boars.jpg
 importance: 3
 category: work
@@ -10,4 +10,27 @@ related_publications: fabbri2023anthropogenic
 
 Designed and managed by myself and Dr. Fabbri, under the supervision of Prof. Scandura (University of Sassari) + Prof. Pagani (University of Padua + University of Tartu)
 
-The wild boar (Sus scrofa meridionalis) arrived in Sardinia with the first human settlers in the early Neolithic with the potential to hybridize with the domestic pig (S. s. domesticus) throughout its evolution on the island. In this paper, we investigated the possible microevolutionary effects of such introgressive hybridization on the present wild boar population, comparing Sardinian wild specimens with several commercial pig breeds and Sardinian local pigs, along with a putatively unadmixed wild boar population from Central Italy, all genotyped with a medium density SNP chip. We first aimed at identifying hybrids in the population using different approaches, then examined genomic regions enriched for domestic alleles in the hybrid group, and finally we applied two methods to find regions under positive selection to possibly highlight instances of domestic adaptive introgression into a wild population. We found three hybrids within the Sardinian sample (3.1% out of the whole dataset). We reported 11 significant windows under positive selection with a method that looks for overly differentiated loci in the target population, compared with other two populations. We also identified 82 genomic regions with signs of selection in the domestic pig but not in the wild boar, two of which overlapped with genomic regions enriched for domestic alleles in the hybrid pool. Genes in these regions can be linked with reproductive success. Given our results, domestic introgression does not seem to be pervasive in the Sardinian wild boar. Nevertheless, we suggest monitoring the possible spread of advantageous domestic alleles in the coming years. 
+The wild boar (Sus scrofa meridionalis) arrived in Sardinia with the first human settlers in the early Neolithic. In this paper, we investigated the possible microevolutionary effects of the introgressive hybridization with domestic pig on the wild boar population, comparing Sardinian wild specimens with several commercial pig breeds and Sardinian local pigs, along with a putatively unadmixed wild boar population from Central Italy, all genotyped with a medium density SNP chip. 
+
+Modelling the Sardinian boars as a mixture of a boar-like ancestry and a pig-like ancestry, we found three hybrids within the Sardinian boar samples. The hybridization event was dated through MALDER around 20 generation ago (100 years ago).
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Boar1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    PCA and ADMIXTURE analyses on Sardinian wild boars, Castelporziano wild boars and several commercial pig breeds.
+</div>
+
+Local Ancestry Deconvolution analyses on the three hybrids revealed non-uniform levels of domestic pig introgression: ranging from 10% to 26.6%. Nonetheless, chromosomes 4, 7, 13, and 14 were the most affected, while chromosome 18 the least. We then looked for signatures of selection, comparing the results with the LAI assignment. PBS identified 11 genomic regions differentiated in the hybrids, however, none of those were in common with the domestic regions found by ELAI. . 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Boar2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   Genomic windows with high domestic proportion. Windows with domestic ancestry in 67% of the chromosomes analyzed (p0.67). In bold, the windows that intersected with at least one of the selection analyses breeds.
+</div>
+
