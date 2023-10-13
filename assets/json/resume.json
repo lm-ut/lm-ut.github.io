@@ -111,7 +111,7 @@
       "summary": ""
     }
   ],
-  "languages": [
+  "Languages": [
     {
       "language": "Italian",
       "fluency": "Native speaker"
@@ -136,15 +136,15 @@
     }
   ],
   "Popularizing Science": [ {
-    "name": "see <a href='https://lm-ut.github.io/CommSci/'>Communication of Science</a>"
+    "name": "<a href='https://lm-ut.github.io/CommSci/'>see Communication of Science</a>"
   }
   ],
-  "publications": [ {
-    "name": "see <a href='https://lm-ut.github.io/publications/'>publications</a>"
+  "Publications": [ {
+    "name": "<a href='https://lm-ut.github.io/publications/'>see publications</a>"
   }
   ],
-  "projects": [ {
-    "name": "see <a href='https://lm-ut.github.io/projects/'>projects</a>"
+  "Projects": [ {
+    "name": "<a href='https://lm-ut.github.io/projects/'>see projects</a>"
   }
   ]
 }
