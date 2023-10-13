@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ludovica Molinaro",
+    "label": "Scientist / Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "firstname.lastname@abc.be",
+    "phone": "+00 000 0000 000",
+    "url": "https://lm-ut.github.io",
+    "summary": "shortbio",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Leuven",
+      "postalCode": "3000",
+      "city": "Leuven",
+      "countryCode": "BE",
+      "region": "Flanders"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "KU Leuven",
+      "position": "Researcher",
+      "url": "https://www.kuleuven.be/wieiswie/en/person/00155799",
+      "startDate": "2022",
+      "endDate": "NOW",
+      "summary": "Researcher",
       "highlights": [
-        "Relativity"
+        "Human Evolutionary Genetics"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Tartu, Estonia",
+      "url": "https://genomics.ut.ee/en",
+      "area": "Genetics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2018",
+      "endDate": "2022",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Human Evolutionary Genetics"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Ermenegildo Zegna Scholarship for exceptionally promising students",
+      "date": "2018",
+      "awarder": "Ermenegildo Zegna Group",
+      "summary": ""
     }
   ],
   "certificates": [],
@@ -63,7 +63,7 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker"
     },
     {
