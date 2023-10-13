@@ -59,26 +59,6 @@
       "score": "",
       "courses": "Gene technologies and their applications in human population genetics"
     },
-        {
-      "institution": "University of Padua, Italy",
-      "url": "",
-      "area": "Biology",
-      "studyType": "Msc",
-      "startDate": "2016",
-      "endDate": "2018",
-      "score": "110/110 cum laude",
-      "courses": "Genetics and its applications in anthropology and human evolutionary biology"
-    },
-        {
-      "institution": "University of Ferrara, Italy",
-      "url": "",
-      "area": "Biology",
-      "studyType": "BSc",
-      "startDate": "2013",
-      "endDate": "2016",
-      "score": "110/110",
-      "courses": "Genetics and its applications in linguistics"
-    },
   ],
   "awards": [
     {
@@ -93,7 +73,7 @@
       "awarder": "University of Tartu",
       "summary": ""
     },
-        {
+    {
       "title": "Best Talk - AAI",
       "date": "2019",
       "awarder": "Italian Association of Anthropologists, Padua, Italy",
