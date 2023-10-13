@@ -34,7 +34,7 @@
      {
       "name": "Estonian Biocentre - Institute of Genomics",
       "position": "Doctoral Researcher",
-      "url": "https://www.kuleuven.be/wieiswie/en/person/00155799",
+      "url": "",
       "startDate": "2018",
       "endDate": "2022",
       "summary": "Junior Researcher",
@@ -57,9 +57,7 @@
       "startDate": "2018",
       "endDate": "2022",
       "score": "",
-      "courses": [
-        "Gene technologies and their applications in human population genetics"
-      ]
+      "courses": "Gene technologies and their applications in human population genetics"
     },
         {
       "institution": "University of Padua, Italy",
@@ -69,21 +67,17 @@
       "startDate": "2016",
       "endDate": "2018",
       "score": "110/110 cum laude",
-      "courses": [
-        "Genetics and its applications in anthropology and human evolutionary biology"
-      ]
+      "courses": "Genetics and its applications in anthropology and human evolutionary biology"
     },
         {
       "institution": "University of Ferrara, Italy",
       "url": "",
       "area": "Biology",
-      "studyType": "Bsc",
+      "studyType": "BSc",
       "startDate": "2013",
       "endDate": "2016",
       "score": "110/110",
-      "courses": [
-        "Genetics and its applications in linguistics"
-      ]
+      "courses": "Genetics and its applications in linguistics"
     },
   ],
   "awards": [
@@ -100,13 +94,13 @@
       "summary": ""
     },
         {
-      "title": "Best Talk",
+      "title": "Best Talk - AAI",
       "date": "2019",
       "awarder": "Italian Association of Anthropologists, Padua, Italy",
       "summary": ""
     },
     {
-      "title": "Best Talk",
+      "title": "Best Talk - IG&IMCB",
       "date": "2019",
       "awarder": "Institute of Genomics & Institute of Molecular and Cell Biology, Tartu, Estonia",
       "summary": ""
