@@ -52,5 +52,37 @@
         "Presented my research very efficiently to different constituencies of all levels, such passion and predisposition lead me to teach several university courses, particularly ’Communication of Science’ course were I trained students to deliver an effective, expressive and original speech"
       ]
     }
+  ],
+   "education": [
+    {
+      "institution": "University of Tartu, Estonia",
+      "url": "https://genomics.ut.ee/en",
+      "area": "Genetics",
+      "studyType": "PhD",
+      "startDate": "2018",
+      "endDate": "2022",
+      "score": "",
+      "courses": "Gene technologies and their applications in human population genetics"
+    },
+    {
+      "institution": "University of Padua, Italy",
+      "url": "",
+      "area": "Biology",
+      "studyType": "Msc",
+      "startDate": "2016",
+      "endDate": "2018",
+      "score": "110/110 cum laude",
+      "courses": "Genetics and its applications in anthropology and human evolutionary biology"
+    },
+    {
+      "institution": "University of Ferrara, Italy",
+      "url": "",
+      "area": "Biology",
+      "studyType": "BSc",
+      "startDate": "2013",
+      "endDate": "2016",
+      "score": "110/110",
+      "courses": "Genetics and its applications in linguistics"
+    }
   ]
 }
