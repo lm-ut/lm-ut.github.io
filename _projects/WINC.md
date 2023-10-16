@@ -28,7 +28,7 @@ Supervised by Dr. Montinaro (University of Bari + University of Tartu) & Prof. P
 
 <script>
     const data = {
-        "paragraph": "Guess what? We've just whipped up WINC: a new tool for local ancestry deconvolution (LAI). It's like a genetic compass that tells us exactly where the roots of a mixed bunch of folks are, giving us major insights into how different communities came to be. The best part? Our method cracks a tough nut that other tools grapple with: they always demand heaps of samples from each proxy source. But not ours! With our tricked-out pipeline, just a duo of samples from each source does the trick. This means we can dive into studying all kinds of critters and creatures, unlocking a whole universe of possibilities!"
+        "paragraph": "Guess what? We've just whipped up WINC: a new tool for local ancestry deconvolution (LAI). It's like a genetic compass that tells us exactly where the roots of a mixed bunch of folks are, giving us major insights into how different communities came to be. The best part? Our method cracks a tough nut that other tools grapple with: they always demand heaps of samples from each proxy source. But not ours! With WINC pipeline, just a duo of samples from each source does the trick. This means we can dive into studying all kinds of critters and creatures, unlocking a whole universe of possibilities!"
     };
 
     const div = document.getElementById("jsonParagraph");
