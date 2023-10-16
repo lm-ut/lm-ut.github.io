@@ -14,7 +14,7 @@ Designed and managed by myself and Dr. Fabbri, under the supervision of Prof. Sc
 <head>
     <style>
         .highlight {
-            border: 2px solid black;
+            border: 2px solid gray;
             padding: 5px;
             display: inline-block; /* Adjust display property as per your layout requirements */
         }
@@ -26,7 +26,7 @@ Designed and managed by myself and Dr. Fabbri, under the supervision of Prof. Sc
 
 <script>
     const data = {
-        "paragraph": "<b> Why is this project cool? </b> Two determined (yet very friendly) doctoral reseachers, fearlessly tackled the humongous challenge posed by the canonical scientific costrain: limited sample size. Embarked on an quest to uncover the most effective analytical methods, we successfully laid the groundwork for understanding the intricate dynamics of genetic hybridization between wild boars and domestic pigs, offering a first glance of the evolutionary history of the Sardinian wild boar population."
+        "paragraph": "<b>Why is this project cool?</b> Two determined (yet very friendly) doctoral reseachers, fearlessly tackled the humongous challenge posed by the canonical scientific costrain: limited sample size. Embarked on an quest to uncover the most effective analytical methods, we successfully laid the groundwork for understanding the intricate dynamics of genetic hybridization between wild boars and domestic pigs, offering a first glance of the evolutionary history of the Sardinian wild boar population."
     };
 
     const div = document.getElementById("jsonParagraph");
@@ -38,6 +38,7 @@ Designed and managed by myself and Dr. Fabbri, under the supervision of Prof. Sc
 
 </body>
 </html>
+
 
 
 The wild boar (Sus scrofa meridionalis) arrived in Sardinia with the first human settlers in the early Neolithic. In this paper, we investigated the possible microevolutionary effects of the introgressive hybridization with domestic pig on the wild boar population, comparing Sardinian wild specimens with several commercial pig breeds and Sardinian local pigs, along with a putatively unadmixed wild boar population from Central Italy, all genotyped with a medium density SNP chip (~50K SNPs).
