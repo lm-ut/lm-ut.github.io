@@ -35,7 +35,7 @@ Local Ancestry Deconvolution analyses on the three hybrids revealed non-uniform 
 
 We then applied selection analyses (PBS and XP-EHH) to further identify the putative genomic regions under selection. Due to the limited availability of SNPs as well as samples, we decided to opt for a randomization step. With this design we aimed to sample 3 non-hybrid Sardinian wild boars to use as an Outlier group and check how many and which windows would result significant just by chance with reduced non-hybrid sample size. We applied two randomization approaches, both of 1000 replications:
 a) 3 completely random SarWB
-b) 2 SarWB from eastern side of Sardinia + 1 from either north- or southwestern side (to account for population structure)
+b) 2 SarWB from eastern side of Sardinia + 1 from either north- or southwestern side (to account for population structure).
 All windows selected by the randomization analyses were further removed if found in the hybrid analyses. Selection analyses found two significant windows under selection enriched for the domestic alleles.
 
 <div class="row">
