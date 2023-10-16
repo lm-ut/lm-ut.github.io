@@ -10,13 +10,14 @@ related_publications: fabbri2023anthropogenic
 
 Designed and managed by myself and Dr. Fabbri, under the supervision of Prof. Scandura (University of Sassari) + Prof. Pagani (University of Padua + University of Tartu)
 
+<b>Why is this project cool?</b> 
 <html>
 <head>
     <style>
         .highlight {
             border: 2px solid gray;
             padding: 5px;
-            margin-bottom: 10px;
+            margin-bottom: 30px;
             display: inline-block; /* Adjust display property as per your layout requirements */
         }
     </style>
@@ -27,7 +28,7 @@ Designed and managed by myself and Dr. Fabbri, under the supervision of Prof. Sc
 
 <script>
     const data = {
-        "paragraph": "<b>Why is this project cool?</b> Two determined (yet very friendly) doctoral reseachers, fearlessly tackled the humongous challenge posed by the canonical scientific costrain: limited sample size. Embarked on an quest to uncover the most effective analytical methods, we successfully laid the groundwork for understanding the intricate dynamics of genetic hybridization between wild boars and domestic pigs, offering a first glance of the evolutionary history of the Sardinian wild boar population."
+        "paragraph": "Two determined (yet very friendly) doctoral reseachers, fearlessly tackled the humongous challenge posed by the canonical scientific costrain: limited sample size. Embarked on an quest to uncover the most effective analytical methods, we successfully laid the groundwork for understanding the intricate dynamics of genetic hybridization between wild boars and domestic pigs, offering a first glance of the evolutionary history of the Sardinian wild boar population."
     };
 
     const div = document.getElementById("jsonParagraph");
