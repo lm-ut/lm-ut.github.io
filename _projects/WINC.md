@@ -10,6 +10,37 @@ related_publications: Molinaro2021chromosome
 
 Supervised by Dr. Montinaro (University of Bari + University of Tartu) & Prof. Pagani (University of Padua + University of Tartu)
 
+<b>Why is this project cool?</b> The following segment was written entirely by ChatGTP, but it's too fricking cute to change even one bit.
+<html>
+<head>
+    <style>
+        .highlight {
+            border: 2px solid gray;
+            padding: 5px;
+            margin-bottom: 20px;
+            display: inline-block; /* Adjust display property as per your layout requirements */
+        }
+    </style>
+</head>
+<body>
+
+<div id="jsonParagraph"></div>
+
+<script>
+    const data = {
+        "paragraph": "Guess what? We've just whipped up this slick new tool for local ancestry deconvolution (LAI). It's like a genetic compass that tells us exactly where the roots of a mixed bunch of folks are, giving us major insights into how different communities came to be. The best part? Our method cracks a tough nut that other tools grapple with: they always demand heaps of samples from each supposed source. But not ours! With our tricked-out pipeline, just a duo of samples from each source does the trick. This means we can dive into studying all kinds of critters and creatures, unlocking a whole universe of possibilities!"
+    };
+
+    const div = document.getElementById("jsonParagraph");
+    const span = document.createElement("span");
+    span.textContent = data.paragraph;
+    span.classList.add("highlight");
+    div.appendChild(span);
+</script>
+
+</body>
+</html>
+
 Contemporary individuals are the combination of genetic fragments inherited from ancestors belonging to multiple populations, as
 the result of migration and admixture. Isolating and characterizing these layers are crucial to the understanding of the genetic history
 of a given population. Ancestry deconvolution approaches make use of a large amount of source individuals, therefore constraining
