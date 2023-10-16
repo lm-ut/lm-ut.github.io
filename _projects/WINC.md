@@ -5,7 +5,7 @@ description: A chromosome-painting-based pipeline to infer local ancestry under 
 img: assets/img/SummaryWINC.jpg
 importance: 2
 category: work
-related_publications: Molinaro2021chromosome
+related_publications: molinaro2021chromosome
 ---
 
 Supervised by Dr. Montinaro (University of Bari + University of Tartu) & Prof. Pagani (University of Padua + University of Tartu)
