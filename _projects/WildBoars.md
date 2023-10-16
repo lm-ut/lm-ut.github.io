@@ -10,7 +10,8 @@ related_publications: fabbri2023anthropogenic
 
 Designed and managed by myself and Dr. Fabbri, under the supervision of Prof. Scandura (University of Sassari) + Prof. Pagani (University of Padua + University of Tartu)
 
-<b> Why is this project cool? </b> Two determined (yet very friendly) doctoral reseachers, fearlessly tackled the humonguous challenge posed by the canonical scientific costrain: limited sample size. Embarked on an quest to uncover the most effective analytical methods, we successfully laid the groundwork for understanding the intricate dynamics of genetic hybridization between wild boars and domestic pigs, offering a first glance of the evolutionary history of the Sardinian wild boar population.
+{ "paragraph": "<b> Why is this project cool? </b> Two determined (yet very friendly) doctoral reseachers, fearlessly tackled the humonguous challenge posed by the canonical scientific costrain: limited sample size. Embarked on an quest to uncover the most effective analytical methods, we successfully laid the groundwork for understanding the intricate dynamics of genetic hybridization between wild boars and domestic pigs, offering a first glance of the evolutionary history of the Sardinian wild boar population." 
+}
 
 
 The wild boar (Sus scrofa meridionalis) arrived in Sardinia with the first human settlers in the early Neolithic. In this paper, we investigated the possible microevolutionary effects of the introgressive hybridization with domestic pig on the wild boar population, comparing Sardinian wild specimens with several commercial pig breeds and Sardinian local pigs, along with a putatively unadmixed wild boar population from Central Italy, all genotyped with a medium density SNP chip (~50K SNPs).
