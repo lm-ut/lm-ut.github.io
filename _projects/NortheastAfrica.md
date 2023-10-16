@@ -10,6 +10,38 @@ related_publications: Molinaro2022, molinaro2019west, molinaro2018human, Evoluti
 
 Supervised by Prof. Pagani (University of Padua + University of Tartu)
 
+<b>Why is this project cool?</b> 
+<html>
+<head>
+    <style>
+        .highlight {
+            border: 2px solid gray;
+            padding: 5px;
+            margin-bottom: 20px;
+            display: inline-block; /* Adjust display property as per your layout requirements */
+        }
+    </style>
+</head>
+<body>
+
+<div id="jsonParagraph"></div>
+
+<script>
+    const data = {
+        "paragraph": "Our study delves into the genetic composition of Ethiopians, confirming that up to 50% of their DNA can be traced to an Eurasian component, which could potentially be linked to the enigmatic Sea People. Thanks to Local Ancestry deconvolution, we were able to study the genetic features of the Eurasian component specifically. This research sheds light on the intricate evolutionary history of Ethiopians and offers compelling insights into the historical migrations of this population. Our findings pave the way for further investigations into Ethiopia's genetic history, and highlight the importance of accounting for different ancestral components.""
+    };
+
+    const div = document.getElementById("jsonParagraph");
+    const span = document.createElement("span");
+    span.textContent = data.paragraph;
+    span.classList.add("highlight");
+    div.appendChild(span);
+</script>
+
+</body>
+</html>
+
+
 The presence in contemporary Ethiopians of genomic signatures of Eurasian origin has been reported by several authors and estimated to have arrived in the area from 3000 years ago. Several authors have tried to identify a plausible source population for such a signature, using haplotype-based methods on modern data (Pagani 2012) or single-site methods on modern (Pickrell, Hodgson) or ancient data (Lazaridis 2016). These studies did not reach a consensus on the plausible origin and spanned from an Anatolian or Sardinia-like proxy (Pickrell) to a broadly Levantine (Pagani) to a more specifically Levantine Neolithic component (Lazaridis). Given the ancient nature of the Eurasian migration to Ethiopia and the massive population movements and replacements that affected West Asia in the last 3000 years, a natural conclusion would be to rely on the inference made by using ancient data (aDNA) as proxy for the putative population sources. On the other hand, however, the deeply divergent, autochthonous African component which accounts for ~50% of most contemporary Ethiopian genomes was only modelled but not removed from the analyses relying on aDNA. We speculate that the presence of a highly divergent component may affect the overall allele frequency spectrum to an extent that would make it hard to control for it and, at once, to discern between subtly different, yet important, Eurasian sources (such as Anatolian or Levant Neolithic ones).
 
 <div class="row">
