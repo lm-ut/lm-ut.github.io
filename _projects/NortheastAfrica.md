@@ -28,7 +28,7 @@ Supervised by Prof. Pagani (University of Padua + University of Tartu)
 
 <script>
     const data = {
-        "paragraph": "Our study delves into the genetic composition of Ethiopians, confirming that up to 50% of their DNA can be traced to an Eurasian component, which could potentially be linked to the enigmatic Sea People. Thanks to Local Ancestry deconvolution, we were able to study the genetic features of the Eurasian component specifically. This research sheds light on the intricate evolutionary history of Ethiopians and offers compelling insights into the historical migrations of this population. Our findings pave the way for further investigations into Ethiopia's genetic history, and highlight the importance of accounting for different ancestral components.""
+        "paragraph": "Our study delves into the genetic composition of Ethiopians, confirming that up to 50% of their DNA can be traced to an Eurasian component, which could potentially be linked to the enigmatic Sea People. Thanks to Local Ancestry deconvolution, we were able to study the genetic features of the Eurasian component specifically. This research sheds light on the intricate evolutionary history of Ethiopians and offers compelling insights into the historical migrations of this population. Our findings pave the way for further investigations into Ethiopia's genetic history, and highlight the importance of accounting for different ancestral components."
     };
 
     const div = document.getElementById("jsonParagraph");
