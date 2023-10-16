@@ -16,6 +16,7 @@ Designed and managed by myself and Dr. Fabbri, under the supervision of Prof. Sc
         .highlight {
             border: 2px solid gray;
             padding: 5px;
+            margin-bottom: 10px;
             display: inline-block; /* Adjust display property as per your layout requirements */
         }
     </style>
