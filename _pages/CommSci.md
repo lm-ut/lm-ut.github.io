@@ -4,7 +4,7 @@ permalink: /CommSci/
 title: CommSci
 description: Articles and other activities done to communicate and popularizing scientific concepts to a broad audience
 nav: true
-nav_order: 6
+nav_order: 4
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
