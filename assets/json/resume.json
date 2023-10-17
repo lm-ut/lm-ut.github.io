@@ -112,6 +112,25 @@
       "summary": ""
     }
   ],
+    "teaching": [ {
+    "name": "Communication of Science",
+    "date": "2019-2020",
+    "institution": "University of Tartu, Estonia"
+    "highlights": ["Trained students to deliver an effective, expressive and original speech."]
+  },
+      {
+    "name": "Molecular Anthropology",
+    "date": "2019",
+    "institution": "University of Padua, Italy"
+    "highlights": ["Practical course to perform genetic analyses"]
+      },
+         {
+    "name": "Evolution and the Natural World",
+    "date": "2019",
+    "institution": "University of Tartu, Estonia"
+    "highlights": ["Lecture on biology of organism in the light of evolution"]
+      }   
+  ],
   "languages": [
     {
       "language": "Italian",
