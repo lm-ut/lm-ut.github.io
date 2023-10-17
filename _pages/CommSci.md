@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /CommSci/
-title: CommSci
+permalink: /popscience/
+title: popscience
 description: Articles and other activities done to communicate and popularizing scientific concepts to a broad audience
 nav: true
 nav_order: 4
