@@ -3,8 +3,8 @@
     "name": "Ludovica Molinaro",
     "label": "Scientist / Researcher",
     "image": "",
-    "email": "firstname.lastname@abc.be",
-    "phone": "+00 000 0000 000",
+    "email": ".",
+    "phone": ".",
     "url": "https://lm-ut.github.io",
     "summary": "Experienced researcher well-versed in the intricacies of biological and genetic exploration, coupled with a genuine passion not only for the world of data mining and coding, but also to the art of scientific writing and explanation of complex concepts to a wider audience.My work has been prominently featured in various scientific publications, and I have actively conducted research across diverse European settings, cultivating both project management expertise and a collaborative spirit that transcends borders.",
     "location": {
@@ -145,17 +145,15 @@
     {
       "name": "MAAKBar",
       "date": "2023",
-      "summary": "MAAKBar is an organization focused on promoting sharing, recovery, and reuse all kind of items, supporting those interested in sustainable living practices.",
-      "highlights": "Volunteer for the event of Autumn SWAP organized by MAAKBar, making sure all the donated clothes were neatly sorted and displayed, so everyone could find something they loved easily."
+      "summary": "MAAKBar is an organization focused on promoting sharing, recovery, and reuse all kind of items, supporting those interested in sustainable living practices."
     },
     {      
       "name": "International House Leuven",
       "date": "2023",
-      "summary" : "International House Leuven provides support relative to relocation, social integration, living and working in the Leuven region or internationals and their families.",
-      "highlights": "Volunteer for the Expatival festival"
+      "summary" : "International House Leuven provides support relative to relocation, social integration, living and working in the Leuven region or internationals and their families."
     }
   ],
-  "popularizing science": [ {
+  "Science outreach": [ {
     "name": "<a href='https://lm-ut.github.io/CommSci/'>see Communication of Science</a>"
   }
   ],
